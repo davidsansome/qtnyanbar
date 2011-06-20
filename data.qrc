@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>nyancat.png</file>
+        <file>rainbow.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
